@@ -1,0 +1,15 @@
+.service-item {
+  text-decoration: none;
+  color: white;
+}
+
+.service-item:hover {
+  border: 1px solid indigo;
+  padding: 15px;
+  background-image: url(../../../images/serviveBgHover.jpg);
+  background-size: cover;
+  color: black;
+  border-radius: 10px;
+  text-decoration: none;
+  box-shadow: 5px 5px;
+}

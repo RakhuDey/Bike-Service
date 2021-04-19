@@ -1,0 +1,5 @@
+.container {
+  background-image: url(../../../images/headerBg.jpg);
+  background-size: cover;
+  height: 550px;
+}
